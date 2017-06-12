@@ -1,3 +1,4 @@
 <<<<<<< HEAD
-readme test��֧
+readme test·ÖÖ§
 
+is 乱码
